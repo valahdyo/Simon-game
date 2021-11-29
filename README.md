@@ -1,6 +1,6 @@
 # Simon-game
 ## General info
-This project is the answer for technical test at dumbways.
+This project is game called simon-game.
 	
 ## Technologies
 Project is created with:
