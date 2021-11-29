@@ -10,11 +10,5 @@ Project is created with:
 * JQuery
 	
 ## Setup
-To run this project, install it locally using npm:
-```
-$ cd /@where-you-save-repo/
-$ npm install
-$ npm app.js
-```
+To run this project, simply run index.html in one folder
 
-Or, if you are lazy person (just like me :D) you can see my project at: 
